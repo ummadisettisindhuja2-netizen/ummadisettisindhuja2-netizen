@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sindhuja Ummadisetti 👋
 
-<!--
-**ummadisettisindhuja2-netizen/ummadisettisindhuja2-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+Cloud and DevOps Engineer with 5+ years of experience working with cloud infrastructure, automation, CI/CD, containerization, and Infrastructure as Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- ☁️ Cloud: AWS | GCP | Azure
+- 🏗️ Infrastructure as Code: Terraform | CloudFormation
+- 🚀 CI/CD: Jenkins | GitLab CI/CD | GitHub Actions
+- 🐳 Containers: Docker | Kubernetes | GKE | ECS
+- 💻 Scripting: Python | Shell Scripting
+- 📊 Monitoring: Prometheus | Grafana | ELK | CloudWatch
+- 🔐 DevSecOps: IAM | Secrets Management | Security Scanning
+- 🔧 Version Control: Git | GitHub | GitLab
+
+### 🚀 What I'm Working On
+
+- Building automated cloud infrastructure using Terraform
+- Creating CI/CD pipelines for cloud-native applications
+- Deploying containerized applications with Kubernetes
+- Improving cloud security, monitoring, and reliability
+
+### 📂 Portfolio Projects
+
+Projects coming soon:
+- AWS Infrastructure Automation with Terraform
+- Kubernetes Application Deployment
+- End-to-End CI/CD Pipeline
+- GCP Infrastructure Automation
+- Cloud Monitoring with Prometheus & Grafana
+
+### 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn URL here
+- GitHub: @ummadisettisindhuja2-netizen
