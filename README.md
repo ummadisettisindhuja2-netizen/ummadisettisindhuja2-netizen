@@ -45,5 +45,5 @@ Cloud and DevOps Engineer with 5+ years of experience working with cloud infrast
 
 ### 📫 Connect With Me
 
-- LinkedIn:- linkedin.com/in/ummadisetti-sindhuja-1201
+- LinkedIn:- [linkedin.com/in/ummadisetti-sindhuja-1201](https://www.linkedin.com/in/ummadisetti-sindhuja-1201/)
 - GitHub: @ummadisettisindhuja2-netizen
