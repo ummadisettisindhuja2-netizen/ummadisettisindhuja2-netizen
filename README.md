@@ -24,10 +24,22 @@ Cloud and DevOps Engineer with 5+ years of experience working with cloud infrast
 
 ### 📂 Portfolio Projects
 
-Projects coming soon:
-- AWS Infrastructure Automation with Terraform
+#### [AWS Infrastructure Automation with Terraform](https://github.com/ummadisettisindhuja2-netizen/aws-terraform-infrastructure)
+
+- Provisioned AWS VPC, public subnet, Internet Gateway and route tables using Terraform
+- Deployed an Amazon Linux EC2 instance with an Apache web server
+- Configured security groups and reusable Terraform variables
+- Implemented automated Terraform validation using GitHub Actions
+- Created architecture documentation and deployment instructions
+
+**Technologies:** AWS, Terraform, EC2, VPC, GitHub Actions, Linux and Apache
+
+### Upcoming Projects
+
 - Kubernetes Application Deployment
 - End-to-End CI/CD Pipeline
+- GCP Infrastructure Automation
+- Prometheus and Grafana Monitoring
 - GCP Infrastructure Automation
 - Cloud Monitoring with Prometheus & Grafana
 
