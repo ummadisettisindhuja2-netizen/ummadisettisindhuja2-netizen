@@ -43,9 +43,17 @@ Cloud and DevOps Engineer with 5+ years of experience working with cloud infrast
 
 **Technologies:** Docker, Kubernetes, Python, Flask, GitHub Actions, GitHub Container Registry, CI/CD
 
+#### [End-to-End CI/CD Pipeline](https://github.com/ummadisettisindhuja2-netizen/end-to-end-ci-cd-pipeline)
+
+- Built an automated GitHub Actions CI/CD pipeline for a Python web application
+- Added automated testing with Pytest, static security scanning with Bandit, and dependency auditing with pip-audit
+- Containerized the application with Docker and configured a non-root container user
+- Automated Docker image build and publishing to GitHub Container Registry after all quality checks pass
+- Detected and remediated a vulnerable Pytest dependency through the CI/CD security audit
+
+**Technologies:** GitHub Actions, Docker, Python, Flask, Pytest, Bandit, pip-audit, GitHub Container Registry, YAML
 ### Upcoming Projects
 
-* End-to-End CI/CD Pipeline
 * GCP Infrastructure Automation
 * Cloud Monitoring with Prometheus and Grafana
 
