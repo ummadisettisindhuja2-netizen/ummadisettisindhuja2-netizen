@@ -24,8 +24,6 @@ Cloud and DevOps Engineer with 5+ years of experience working with cloud infrast
 
 ### 📂 Portfolio Projects
 
-### 📂 Portfolio Projects
-
 #### [AWS Infrastructure Automation with Terraform](https://github.com/ummadisettisindhuja2-netizen/aws-terraform-infrastructure)
 
 * Provisioned AWS VPC, public subnet, Internet Gateway, and route tables using Terraform
