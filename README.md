@@ -24,26 +24,34 @@ Cloud and DevOps Engineer with 5+ years of experience working with cloud infrast
 
 ### 📂 Portfolio Projects
 
+### 📂 Portfolio Projects
+
 #### [AWS Infrastructure Automation with Terraform](https://github.com/ummadisettisindhuja2-netizen/aws-terraform-infrastructure)
 
-- Provisioned AWS VPC, public subnet, Internet Gateway and route tables using Terraform
-- Deployed an Amazon Linux EC2 instance with an Apache web server
-- Configured security groups and reusable Terraform variables
-- Implemented automated Terraform validation using GitHub Actions
-- Created architecture documentation and deployment instructions
+* Provisioned AWS VPC, public subnet, Internet Gateway, and route tables using Terraform
+* Deployed an Amazon Linux EC2 instance with an Apache web server
+* Configured security groups and reusable Terraform variables
+* Implemented automated Terraform validation using GitHub Actions
+* Created architecture documentation and deployment instructions
 
-**Technologies:** AWS, Terraform, EC2, VPC, GitHub Actions, Linux and Apache
+**Technologies:** AWS, Terraform, EC2, VPC, GitHub Actions, Linux, Apache
+
+#### [Kubernetes Application Deployment](https://github.com/ummadisettisindhuja2-netizen/kubernetes-application-deployment)
+
+* Built a Python Flask application and containerized it using Docker
+* Created Kubernetes Deployment and Service manifests with health checks and two replicas
+* Implemented GitHub Actions CI/CD to test, build, and publish the Docker image
+* Added container security, resource limits, and complete deployment documentation
+
+**Technologies:** Docker, Kubernetes, Python, Flask, GitHub Actions, GitHub Container Registry, CI/CD
 
 ### Upcoming Projects
 
-- Kubernetes Application Deployment
-- End-to-End CI/CD Pipeline
-- GCP Infrastructure Automation
-- Prometheus and Grafana Monitoring
-- GCP Infrastructure Automation
-- Cloud Monitoring with Prometheus & Grafana
+* End-to-End CI/CD Pipeline
+* GCP Infrastructure Automation
+* Cloud Monitoring with Prometheus and Grafana
 
 ### 📫 Connect With Me
 
-- LinkedIn:- [linkedin.com/in/ummadisetti-sindhuja-1201](https://www.linkedin.com/in/ummadisetti-sindhuja-1201/)
-- GitHub: @ummadisettisindhuja2-netizen
+* LinkedIn: [linkedin.com/in/ummadisetti-sindhuja-1201](https://www.linkedin.com/in/ummadisetti-sindhuja-1201/)
+* GitHub: [@ummadisettisindhuja2-netizen](https://github.com/ummadisettisindhuja2-netizen)
